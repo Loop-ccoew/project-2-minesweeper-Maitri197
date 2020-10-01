@@ -42,8 +42,11 @@ win=i+1;
 System.out.println("Player "+win+" is the winner.");
 }
 
-
-
+#USELESS FUNCTION
+void Hack)
+{
+System.out.println("Useless");
+}
 
 void intro()
 {
